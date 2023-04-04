@@ -30,7 +30,7 @@ public class RentACatTest {
 		// Turn on automatic bug injection in the Cat class, to emulate a buggy Cat.
 		// Your unit tests should work regardless of these bugs.
 		Cat.bugInjectionOn = true;
-		Config.setBuggyCoffeeMakerQuest(true);
+		//Config.setBuggyCoffeeMakerQuest(true);
 
 		// INITIALIZE THE TEST FIXTURE
 		// 1. Create a new RentACat object and assign to r
